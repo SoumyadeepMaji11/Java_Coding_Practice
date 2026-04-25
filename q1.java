@@ -10,6 +10,7 @@ public class q1 {
             w -> w,Collectors.counting()
         ));
 
+
         System.out.println(result);
     }
 }
